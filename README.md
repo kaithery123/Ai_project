@@ -1,9 +1,9 @@
 # Ai_project
 # API DOCUMENTATION
 
-# AI Customer Support Ticket System
+ AI Customer Support Ticket System
 
-# AI Customer Support Ticket System
+
 
 ## Project Overview
 This project is a Django REST API with JWT authentication and AI-powered ticket support system.
