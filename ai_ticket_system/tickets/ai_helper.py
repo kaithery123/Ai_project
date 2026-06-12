@@ -1,7 +1,7 @@
 import google.generativeai as genai
 
 # Replace with your REAL Gemini API key
-#genai.configure(api_key="AQ.Ab8RN6JUDGxnpqIlLT8cdivcagM7T_MT3DpMDasji1oDb3JsRw")
+
 import os
 from dotenv import load_dotenv
 
